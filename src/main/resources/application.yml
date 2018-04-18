@@ -1,0 +1,10 @@
+spring:
+  mail:
+    host: smtp.163.com
+    username: cdsfsefon@163.com
+    password: chenlei1472
+    properties:
+      mail:
+        smtp:
+          ssl:
+            enable: true
